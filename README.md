@@ -6,7 +6,7 @@ Estudante de programação
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 # Redes
-[O meu linkedin](www.linkedin.com/in/bernardo-fernando1)
+[O meu linkedin](https://www.linkedin.com/in/bernardo-fernando1/)
 
 
 <!--
