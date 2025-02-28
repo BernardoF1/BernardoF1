@@ -1,6 +1,7 @@
 ## Bem vindo ao meu perfil!
 
 Estudante de programação
+
 Técnico em automação industrial
 
 # Linguagens
