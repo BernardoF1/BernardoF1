@@ -1,6 +1,7 @@
 ## Bem vindo ao meu perfil!
 
 Estudante de programação
+Técnico em automação industrial
 
 # Linguagens
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
