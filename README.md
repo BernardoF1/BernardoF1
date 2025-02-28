@@ -8,7 +8,7 @@ Estudante de programação
 # Redes
 [O meu linkedin](https://www.linkedin.com/in/bernardo-fernando1/)
 
-- 18 years old
+- 18 anos
 
   ![ㅤ](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZkOTJjbGtuZjZnYjExdW05MmRjbDVmcDN6NDY0YzB5aXJzczB0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZDptwqInaDi0M/giphy.gif)
 <!--
