@@ -4,6 +4,7 @@ Estudante de programação
 
 # Linguagens
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 # Redes
 [![My Skills](https://skillicons.dev/icons?i=Linkedin)](https://skillicons.dev)
