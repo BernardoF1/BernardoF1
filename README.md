@@ -2,7 +2,7 @@
 # Sobre mim
 Estudante de programação
 
-# Linguagens
+# Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
