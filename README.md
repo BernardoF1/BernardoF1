@@ -5,11 +5,11 @@ Estudante de programação
 # Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 # Redes
 [![My Skills](https://skillicons.dev/icons?i=Linkedin)](https://skillicons.dev)
-[O meu linkedin](https://www.linkedin.com/in/bernardo-fernando1/)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)(https://www.linkedin.com/in/bernardo-fernando1/)
 
 - 18 anos
 
