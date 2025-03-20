@@ -9,7 +9,7 @@ Estudante de programação
 
 # Redes
 [![My Skills](https://skillicons.dev/icons?i=Linkedin)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)(https://www.linkedin.com/in/bernardo-fernando1/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-fernando1/)
 
 - 18 anos
 
