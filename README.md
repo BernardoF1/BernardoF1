@@ -12,7 +12,7 @@ Estudante de programação
 
 - 18 anos
 
-![ ]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFhN2liamg4a3o0YXNkaHFocDJ4bGZyNWN6enQycnVrMWVscXg4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif])
+![]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZkOTJjbGtuZjZnYjExdW05MmRjbDVmcDN6NDY0YzB5aXJzczB0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZDptwqInaDi0M/giphy.gif](https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q))
 
 
 <picture align="center">
