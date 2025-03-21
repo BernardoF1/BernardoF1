@@ -12,7 +12,7 @@ Estudante de programação
 
 - 18 anos
 
-![](https://tenor.com/view/monkey-gif-19600739)
+![ ](https://tenor.com/view/monkey-gif-19600739)
 
 
 <picture align="center">
