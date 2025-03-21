@@ -12,7 +12,7 @@ Estudante de programação
 
 - 18 anos
 
-![gif]((https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q))
+![ ](https://giphy.com/gifs/computer-monkey-KpACNEh8jXK2Q)
 
 
 <picture align="center">
