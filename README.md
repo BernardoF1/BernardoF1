@@ -1,4 +1,5 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
+## <img src="https://readme-typing-svg.demolab.com/?
+color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
 
 # Sobre mim
 Estudante de programação e Técnico em automação. Comecei a programar em maio de 2024 e desde lá venho me aprofudando neste mundo da tecnologia, comecei por Python na qual é a linguagem que uso até hoje
