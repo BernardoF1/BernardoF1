@@ -14,9 +14,12 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 # Redes
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-fernando1/)
 
-- 18 anos
+<picture align="right">
+ <source media="![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTIweGQ2d3Yyb2phOGI4dGozeTd0M3RlOXhoZHBobTdrcDJxazFnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif)">
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTIweGQ2d3Yyb2phOGI4dGozeTd0M3RlOXhoZHBobTdrcDJxazFnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif)
+</picture>
+
+
 
 
 <picture align="center">
