@@ -8,7 +8,9 @@
 
 
 # Sobre mim
-Estudante de programação e Técnico em automação. Comecei a programar em maio de 2024 e desde lá venho me aprofudando neste mundo da tecnologia, comecei por Python na qual é a linguagem que uso até hoje
+Estudante de computação no IFRJ - Campus Pinheiral e sou Técnico em automação. 
+Atualmente eu estudo python junto com o framework django, além de já ter mexido com c++ para programação de microcontroladores.
+Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para que no futuro, eu possa ser um bom profissional.
 
 # Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
