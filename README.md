@@ -1,5 +1,11 @@
-## <img src="https://readme-typing-svg.demolab.com/?
-color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?
+      color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
+  </a>
+</div>
+
+
 
 # Sobre mim
 Estudante de programação e Técnico em automação. Comecei a programar em maio de 2024 e desde lá venho me aprofudando neste mundo da tecnologia, comecei por Python na qual é a linguagem que uso até hoje
@@ -24,6 +30,9 @@ Estudante de programação e Técnico em automação. Comecei a programar em mai
 </picture>
 <br></br>
 <!--
+
+## <img src="https://readme-typing-svg.demolab.com/?
+color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
 
 **BernardoF1/BernardoF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
