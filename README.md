@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 
 # Sobre mim
