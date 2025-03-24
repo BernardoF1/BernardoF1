@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil!
 # Sobre mim
-Estudante de programação
+Estudante de programação e Técnico em automação. Comecei a programar em maio de 2024 e desde lá venho me aprofudando neste mundo da tecnologia, comecei por Python na qual é a linguagem que uso até hoje
 
 # Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
