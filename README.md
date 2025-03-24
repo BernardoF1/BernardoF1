@@ -16,7 +16,7 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 
 - 18 anos
 
-![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR3NWtxMXRobTFleXUxbnpmbGZ3bjY5bDNndHpyM201cm1nOWYzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/320DtA14MFhu0/giphy.gif)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTIweGQ2d3Yyb2phOGI4dGozeTd0M3RlOXhoZHBobTdrcDJxazFnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif)
 
 
 <picture align="center">
