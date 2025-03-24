@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil!
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 # Sobre mim
 Estudante de programação e Técnico em automação. Comecei a programar em maio de 2024 e desde lá venho me aprofudando neste mundo da tecnologia, comecei por Python na qual é a linguagem que uso até hoje
 
