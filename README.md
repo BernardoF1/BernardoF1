@@ -1,6 +1,4 @@
-## <img src="https://readme-typing-svg.demolab.com/?
-color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 
 # Sobre mim
