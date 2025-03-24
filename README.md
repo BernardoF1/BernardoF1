@@ -16,7 +16,7 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTIweGQ2d3Yyb2phOGI4dGozeTd0M3RlOXhoZHBobTdrcDJxazFnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" alt="GIF animado" />
-</p>****
+</p>
 
 
 <picture align="center">
