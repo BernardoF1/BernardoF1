@@ -1,9 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?
-      color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
-  </a>
-</div>
+## <img src="https://readme-typing-svg.demolab.com/?
+color=000000&center=true&vCenter=truelines=Bem+vindo+ao+meu+perfil">
 
 
 
