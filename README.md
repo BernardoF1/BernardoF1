@@ -3,7 +3,7 @@
 
 # Sobre mim
 Estudante de computação no IFRJ - Campus Pinheiral e sou Técnico em automação. 
-Atualmente eu estudo python junto com o framework django, além de já ter mexido com c++ para programação de microcontroladores.
+Atualmente eu estudo python junto com o framework django, além de já ter usado c++ para programação de microcontroladores.
 Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para que no futuro, eu possa ser um bom profissional.
 
 # Linguagens e Ferramentas
