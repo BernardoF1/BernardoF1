@@ -3,8 +3,10 @@
 
 # Sobre mim
 Estudante de computação no IFRJ - Campus Pinheiral e sou Técnico em automação. 
-Atualmente eu estudo python junto com o framework django, além de já ter usado c++ para programação de microcontroladores.
+Atualmente eu estou estudando java, além de já ter usado c++ para programação de microcontroladores.
 Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para que no futuro, eu possa ser um bom profissional.
+# Aprendendo
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 # Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
