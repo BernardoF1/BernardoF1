@@ -13,7 +13,7 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
 
 
