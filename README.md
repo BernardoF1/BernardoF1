@@ -8,6 +8,14 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 
 
 # Linguagens e Ferramentas
+<p align = "center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs, postgresql" />
+  </a>
+</p>
+
+ 
+/*
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
@@ -15,7 +23,7 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
-
+*/
 
 
 # Redes (clique no ícone)
