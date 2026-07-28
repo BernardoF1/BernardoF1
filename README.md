@@ -5,13 +5,18 @@
 Estudante de computação no IFRJ - Campus Pinheiral e sou Técnico em automação. 
 Atualmente eu estou estudando java, além de já ter usado c++ para programação de microcontroladores.
 Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para que no futuro, eu possa ser um bom profissional.
-# Aprendendo
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
 
 # Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+
+
 
 # Redes (clique no ícone)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-fernando1/)
