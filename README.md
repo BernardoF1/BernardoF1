@@ -8,30 +8,21 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 
 
 # Linguagens e Ferramentas
-<p align = "center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs, postgresql" />
-  </a>
-</p>
 
+<p align="center">
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,postgresql"/>
+ </a>
+</p>
  
-/*
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
-*/
+
+
 
 
 # Redes (clique no ícone)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-fernando1/)
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTIweGQ2d3Yyb2phOGI4dGozeTd0M3RlOXhoZHBobTdrcDJxazFnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" alt="GIF animado" />
-</p>
+
 
 
 <picture align="center">
