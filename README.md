@@ -11,7 +11,7 @@ Procuro sempre estar me atualizando e me desafiando no mundo da tecnologia para 
 
 <p align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs,postgresql"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,cs, sql"/>
  </a>
 </p>
  
